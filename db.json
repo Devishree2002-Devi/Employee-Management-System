@@ -1,0 +1,49 @@
+{
+  "Employee_Data": [
+    {
+      "employee_name": "prabhas",
+      "employee_contact_number": "1234566666",
+      "employee_contact_email": "prabhas@gmail.com",
+      "employee_designation": "Actor",
+      "employee_reporting_manager": "devishree",
+      "employee_joining_date": "27th sep 2023",
+      "id": "c1da"
+    },
+    {
+      "employee_name": "Karthika",
+      "employee_contact_number": "1234567896",
+      "employee_contact_email": "Karthik@gmail.com",
+      "employee_designation": "Actor",
+      "employee_reporting_manager": "devishree",
+      "employee_joining_date": "27th sep 2023",
+      "id": "53cd"
+    },
+    {
+      "employee_name": "rakesh reddy",
+      "employee_contact_number": "1234567896",
+      "employee_contact_email": "Shivu@gmail.com",
+      "employee_designation": "Student",
+      "employee_reporting_manager": "devishree",
+      "employee_joining_date": "27th sep 2023",
+      "id": "3607"
+    },
+    {
+      "employee_name": "rajaaa",
+      "employee_contact_number": "89785647382",
+      "employee_contact_email": "raja@gmail.com",
+      "employee_designation": "software engineer",
+      "employee_reporting_manager": "devishree",
+      "employee_joining_date": "21 sep 2025",
+      "id": "d0e9"
+    },
+    {
+      "employee_name": "anushaAA",
+      "employee_contact_number": "123456765432",
+      "employee_contact_email": "anu@gmail.com",
+      "employee_designation": "software tester",
+      "employee_reporting_manager": "devishree",
+      "employee_joining_date": "22 mar 2025",
+      "id": "10ba"
+    }
+  ]
+}

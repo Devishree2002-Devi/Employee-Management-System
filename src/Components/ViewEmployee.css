@@ -1,0 +1,55 @@
+table {
+    width: 100%; /* Make the table take full width */
+    border-collapse: collapse; /* Remove space between table cells */
+    margin: 20px 0; /* Add margin around the table */
+    font-size: 16px; /* Set font size */
+    text-align: left; /* Align text to the left */
+  }
+  
+  th, td {
+    padding: 12px 15px; /* Add padding for better spacing */
+    border: 1px solid #ddd; /* Add border between cells */
+  }
+  
+  th {
+    background-color: #007bff; /* Add a background color to header */
+    color: white; /* Make header text white */
+    text-transform: uppercase; /* Capitalize text in the header */
+    font-weight: bold; /* Bold text for header */
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9; /* Alternate row background color */
+  }
+  
+  tr:hover {
+    background-color: #f1f1f1; /* Highlight row on hover */
+  }
+  
+  td a {
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  td i {
+    font-size: 18px; /* Set a uniform size for icons */
+    cursor: pointer; /* Pointer cursor for interactive icons */
+  }
+  
+  .fa-edit {
+    color: #007bff; /* Primary color for edit icon */
+  }
+  
+  .fa-trash {
+    color: #dc3545; /* Danger color for delete icon */
+  }
+  
+  @media (max-width: 768px) {
+    table {
+      font-size: 14px; /* Adjust font size for smaller screens */
+    }
+  
+    th, td {
+      padding: 10px; /* Reduce padding for compactness */
+    }
+  }
+  
